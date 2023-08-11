@@ -1,0 +1,11 @@
+{
+  "name": "seolevelup",
+  "version": "1.0.0",
+  "description": "SEO Level UP",
+  "main": "index.js",
+  "scripts": {
+    "dev": "run dev"
+  },
+  "author": "Natalia Moraes",
+  "license": "ISC"
+}
